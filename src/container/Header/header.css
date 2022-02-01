@@ -1,0 +1,22 @@
+header {
+    padding: 5px 79px;
+}
+.container {
+    display: flex;
+}
+
+.container .logo {
+    flex: 1;
+}
+.logo {
+    color: #22ce00;
+    font-size: 30px;
+    font-stretch: extra-expanded;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text {
+    text-decoration: none;
+    color: #189200;
+    cursor: pointer;
+}
